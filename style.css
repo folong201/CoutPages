@@ -1,0 +1,15 @@
+.footer{
+    position: relative;
+    bottom: 0px;
+}
+
+.footer a{
+    text-decoration: none;
+    color: orange;
+    margin: 2px;
+    box-sizing: border-box;
+    border: 2px solid orangered;
+    padding: 10px;
+    font-size: large;
+    font: 800;
+}
